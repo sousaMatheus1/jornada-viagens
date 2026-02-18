@@ -1,3 +1,7 @@
+.offers{
+  margin-bottom: 88px;
+}
+
 .offers-cards {
   display: flex;
   flex-direction: column;
@@ -16,11 +20,7 @@
 }
 
 .offers-cards .card header {
-  display: block;
-  position: static;
-  padding: 0;
   margin-bottom: 24px;
-  background-color: transparent;
 }
 
 .offers-cards .card header p {
@@ -65,6 +65,9 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+  .offers{
+  margin-bottom: 104px;
+}
 }
 
 @media screen and (min-width: 1024px) {
