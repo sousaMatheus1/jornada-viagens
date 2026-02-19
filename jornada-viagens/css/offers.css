@@ -34,7 +34,7 @@
   margin: 8px 0 0;
 }
 
-.offers-cards .card header span {
+.offers-cards .card header spam {
   font-size: 32px;
   margin-top: 24px;
   display: inline-block;
@@ -80,7 +80,7 @@
     font-size: 48px;
   }
 
-  .offers-cards .card header span {
+  .offers-cards .card header spam {
     font-size: 40px;
   }
 }
