@@ -96,11 +96,11 @@ nav {
   }
 
   .img-mobile {
-    display: none;
+    display: block;
   }
 
   .img-desktop {
-    display: block;
+    display: none;
   }
 
   .navigation-menu a:hover {
@@ -108,8 +108,15 @@ nav {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1440px) {
   .main-header {
     padding: 38px 160px;
   }
+    .img-mobile {
+    display: none;
+  }
+  .img-desktop {
+    display: block;
+  }
 }
+
