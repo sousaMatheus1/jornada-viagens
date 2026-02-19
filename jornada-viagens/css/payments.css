@@ -51,9 +51,11 @@
 
 .payments .content-container .text-content{
     width: 360px;
+    
 }
 
 .payments .content-container .image-gallery {
     width: 790px;
+    margin-top: 0;
 }
 }
